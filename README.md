@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Brenda
 #### I am a Data Analyst and Data Scientist
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/1*07an57w21sOjIXcHsbVIZQ.gif">
 
 I travel in byte-sized chunks.
 
