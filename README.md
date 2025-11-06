@@ -4,11 +4,11 @@
 
 I travel in byte-sized chunks.
 
-Skills: Microsoft Excel / Tableau / MySQL / git / Python
+Skills:  / Tableau / MySQL / git / Python
 
-- 🔭 I’m currently working on IBM Data Analyst certification 
-- 🌱 I’m currently learning ML Algorithms 
-- 💬 Ask me about Data Analysis 
+- 🔭 I’m currently working on my Masters in Data Analytics at SPU!
+- 🌱 I’m currently enjoying learning ML Algorithms 
+- 💬 Ask me about RAG 
 - 📫 How to reach me: ntinyaribrenda@gmail.com 
 - ⚡ Fun fact: I enjoy Hiking 
 
